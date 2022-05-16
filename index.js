@@ -29,7 +29,6 @@ client.on('messageCreate', msg => {
     msg.channel.send('Аоа')
   }
 })
-
 // 
 
  
